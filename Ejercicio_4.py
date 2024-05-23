@@ -20,18 +20,6 @@ while p < n:
             cantidad_B+=1
             suma+=s
 
-    
-
 print("La cantidad de trabajadores que cobran mas de $900.000 son: ",cantidad_A)
 print("La cantidad de trabajadores que cobran entre $500.000 y $900.000 son: ",cantidad_B)
 print("Gasto Empresarial total por personal: ", suma)
-
-
-
-
-
-
-
-
-
-
