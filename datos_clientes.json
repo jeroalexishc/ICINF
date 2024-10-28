@@ -1,0 +1,387 @@
+[
+    {
+        "rut":"21562897-0",
+        "nombre":"Juan Perez",
+        "edad":"x",
+        "fecha_de_nacimiento":"20/06/2004",
+        "contrasena":"8888",
+        "cuentas":[
+            "111-123456789",
+            "222-876543217"
+        ]
+    },
+    {
+        "rut":"19284856-4",
+        "nombre":"Maria Gonzalez",
+        "edad":"x",
+        "fecha_de_nacimiento":"14/05/1990",
+        "contrasena":"7777",
+        "cuentas":[
+            "111-246810226"
+        ]
+    },
+    {
+        "rut":"19000001-9",
+        "nombre":"Isabel Morales",
+        "edad":"x",
+        "fecha_de_nacimiento":"20/03/1978",
+        "contrasena":"6666",
+        "cuentas":[
+            "111-193847562"
+        ]
+    },
+    {
+        "rut":"19543210-3",
+        "nombre":"Felipe Gutiérrez",
+        "edad":"x",
+        "fecha_de_nacimiento":"30/08/1990",
+        "contrasena":"5555",
+        "cuentas":[
+            "111-287345916"
+        ]
+    },
+    {
+        "rut":"20098765-0",
+        "nombre":"Camila Ríos",
+        "edad":"x",
+        "fecha_de_nacimiento":"29/09/1999",
+        "contrasena":"4444",
+        "cuentas":[
+            "111-374192860"
+        ]
+    },
+    {
+        "rut":"20567890-1",
+        "nombre":"Rodrigo Sánchez",
+        "edad":"x",
+        "fecha_de_nacimiento":"19/12/2001",
+        "contrasena":"3333",
+        "cuentas":[
+            "111-481927364"
+        ]
+    },
+    {
+        "rut":"21012345-6",
+        "nombre":"Valentina Pérez",
+        "edad":"x",
+        "fecha_de_nacimiento":"23/10/2003",
+        "contrasena":"2222",
+        "cuentas":[
+            "111-569283471"
+        ]
+    },
+    {
+        "rut":"21567890-7",
+        "nombre":"Andrés Muñoz",
+        "edad":"x",
+        "fecha_de_nacimiento":"26/05/2004",
+        "contrasena":"1111",
+        "cuentas":[
+            "111-678194523"
+        ]
+    },
+    {
+        "rut":"15842391-K",
+        "nombre":"Bastian Garcia",
+        "edad":"31",
+        "fecha_de_nacimiento":"12/08/1992",
+        "contrasena":"1234",
+        "cuentas":[
+            "000-123456789"
+        ]
+    },
+    {
+        "rut":"19673284-5",
+        "nombre":"Brenda González",
+        "edad":"22",
+        "fecha_de_nacimiento":"23/03/2001",
+        "contrasena":"2345",
+        "cuentas":[
+            "111-987654321"
+        ]
+    },
+    {
+        "rut":"11234567-8",
+        "nombre":"José Muñoz",
+        "edad":"38",
+        "fecha_de_nacimiento":"15/06/1985",
+        "contrasena":"3456",
+        "cuentas":[
+            "222-345678912"
+        ]
+    },
+    {
+        "rut":"18945672-3",
+        "nombre":"Ana Rodríguez",
+        "edad":"23",
+        "fecha_de_nacimiento":"04/11/2000",
+        "contrasena":"4567",
+        "cuentas":[
+            "000-234567891"
+        ]
+    },
+    {
+        "rut":"13567891-4",
+        "nombre":"Luis Sanchez",
+        "edad":"35",
+        "fecha_de_nacimiento":"28/07/1988",
+        "contrasena":"5678",
+        "cuentas":[
+            "111-456789123"
+        ]
+    },
+    {
+        "rut":"9123456-7",
+        "nombre":"Carmen Silva",
+        "edad":"41",
+        "fecha_de_nacimiento":"19/04/1982",
+        "contrasena":"6789",
+        "cuentas":[
+            "222-567891234"
+        ]
+    },
+    {
+        "rut":"17891234-K",
+        "nombre":"Pedro Contreras",
+        "edad":"25",
+        "fecha_de_nacimiento":"30/09/1998",
+        "contrasena":"7890",
+        "cuentas":[
+            "000-678912345"
+        ]
+    },
+    {
+        "rut":"20456789-2",
+        "nombre":"Patricia Sepúlveda",
+        "edad":"20",
+        "fecha_de_nacimiento":"11/02/2003",
+        "contrasena":"8901",
+        "cuentas":[
+            "111-789123456"
+        ]
+    },
+    {
+        "rut":"12789123-6",
+        "nombre":"Carlos Rojas",
+        "edad":"37",
+        "fecha_de_nacimiento":"07/12/1986",
+        "contrasena":"9012",
+        "cuentas":[
+            "222-891234567"
+        ]
+    },
+    {
+        "rut":"19234567-1",
+        "nombre":"Marcela Flores",
+        "edad":"22",
+        "fecha_de_nacimiento":"25/05/2001",
+        "contrasena":"0123",
+        "cuentas":[
+            "000-912345678"
+        ]
+    },
+    {
+        "rut":"14567891-9",
+        "nombre":"Francisco Fuentes",
+        "edad":"33",
+        "fecha_de_nacimiento":"14/08/1990",
+        "contrasena":"1357",
+        "cuentas":[
+            "111-123789456"
+        ]
+    },
+    {
+        "rut":"8912345-K",
+        "nombre":"Rosa Pizarro",
+        "edad":"42",
+        "fecha_de_nacimiento":"02/03/1981",
+        "contrasena":"2468",
+        "cuentas":[
+            "222-234891567"
+        ]
+    },
+    {
+        "rut":"18345678-5",
+        "nombre":"Miguel Hernández",
+        "edad":"24",
+        "fecha_de_nacimiento":"21/10/1999",
+        "contrasena":"3579",
+        "cuentas":[
+            "000-345912678"
+        ]
+    },
+    {
+        "rut":"20789123-4",
+        "nombre":"Carolina Valenzuela",
+        "edad":"20",
+        "fecha_de_nacimiento":"09/01/2003",
+        "contrasena":"4680",
+        "cuentas":[
+            "111-456123789"
+        ]
+    },
+    {
+        "rut":"13123456-8",
+        "nombre":"Roberto Figueroa",
+        "edad":"36",
+        "fecha_de_nacimiento":"16/06/1987",
+        "contrasena":"5791",
+        "cuentas":[
+            "222-567234891"
+        ]
+    },
+    {
+        "rut":"19456789-3",
+        "nombre":"Andrea Morales",
+        "edad":"21",
+        "fecha_de_nacimiento":"28/04/2002",
+        "contrasena":"6802",
+        "cuentas":[
+            "000-678345912"
+        ]
+    },
+    {
+        "rut":"15789123-7",
+        "nombre":"Pablo Vega",
+        "edad":"30",
+        "fecha_de_nacimiento":"05/11/1993",
+        "contrasena":"7913",
+        "cuentas":[
+            "111-789456123"
+        ]
+    },
+    {
+        "rut":"20123456-K",
+        "nombre":"Carla Gutiérrez",
+        "edad":"19",
+        "fecha_de_nacimiento":"13/03/2004",
+        "contrasena":"8024",
+        "cuentas":[
+            "222-891567234"
+        ]
+    },
+    {
+        "rut":"10456789-6",
+        "nombre":"Jorge Castro",
+        "edad":"39",
+        "fecha_de_nacimiento":"22/09/1984",
+        "contrasena":"9135",
+        "cuentas":[
+            "000-912678345"
+        ]
+    },
+    {
+        "rut":"18789123-2",
+        "nombre":"Daniela Torres",
+        "edad":"23",
+        "fecha_de_nacimiento":"07/07/2000",
+        "contrasena":"0246",
+        "cuentas":[
+            "111-123891567"
+        ]
+    },
+    {
+        "rut":"16123456-4",
+        "nombre":"Manuel Espinoza",
+        "edad":"29",
+        "fecha_de_nacimiento":"31/05/1994",
+        "contrasena":"1357",
+        "cuentas":[
+            "222-234912678"
+        ]
+    },
+    {
+        "rut":"19456789-8",
+        "nombre":"Sandra Araya",
+        "edad":"22",
+        "fecha_de_nacimiento":"18/12/2001",
+        "contrasena":"2468",
+        "cuentas":[
+            "000-345123789"
+        ]
+    },
+    {
+        "rut":"12789123-1",
+        "nombre":"Ricardo Martínez",
+        "edad":"37",
+        "fecha_de_nacimiento":"26/08/1986",
+        "contrasena":"3579",
+        "cuentas":[
+            "111-456234891"
+        ]
+    },
+    {
+        "rut":"20123456-5",
+        "nombre":"Isabel Navarro",
+        "edad":"19",
+        "fecha_de_nacimiento":"03/02/2004",
+        "contrasena":"4680",
+        "cuentas":[
+            "222-567345912"
+        ]
+    },
+    {
+        "rut":"14456789-7",
+        "nombre":"Alberto Vargas",
+        "edad":"34",
+        "fecha_de_nacimiento":"11/10/1989",
+        "contrasena":"5791",
+        "cuentas":[
+            "000-678456123"
+        ]
+    },
+    {
+        "rut":"17789123-K",
+        "nombre":"Cecilia Alarcón",
+        "edad":"26",
+        "fecha_de_nacimiento":"24/06/1997",
+        "contrasena":"6802",
+        "cuentas":[
+            "111-789567234"
+        ]
+    },
+    {
+        "rut":"11123456-3",
+        "nombre":"Rodrigo Ortiz",
+        "edad":"38",
+        "fecha_de_nacimiento":"29/01/1985",
+        "contrasena":"7913",
+        "cuentas":[
+            "222-891678345"
+        ]
+    },
+    {
+        "rut":"19456789-9",
+        "nombre":"Claudia Bustos",
+        "edad":"21",
+        "fecha_de_nacimiento":"15/08/2002",
+        "contrasena":"8024",
+        "cuentas":[
+            "000-912789456"
+        ]
+    },
+    {
+        "rut":"13789123-2",
+        "nombre":"Walter Díaz",
+        "edad":"35",
+        "fecha_de_nacimiento":"20/04/1988",
+        "contrasena":"9135",
+        "cuentas":[
+            "111-123912678"
+        ]
+    },
+    {
+        "rut":"18123456-6",
+        "nombre":"Ximena Campos",
+        "edad":"24",
+        "fecha_de_nacimiento":"08/12/1999",
+        "contrasena":"0246",
+        "cuentas":[
+            "222-234123789"
+        ]
+    },
+    {
+        "nombre":"gerente",
+        "contrasena":"9999"
+    }
+]
